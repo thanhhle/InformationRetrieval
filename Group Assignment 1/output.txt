@@ -1,0 +1,96 @@
+Python 3.10.7 (v3.10.7:6cc6b13308, Sep  5 2022, 14:02:52) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+>>> a = index('/Users/thanhle/Documents/CPP/Courses/Fall 2022/CS 5180/Group Assignment/Group Assignment 1/collection/')
+Index built in 0.5016529560089111 seconds.
+
+>>> a.and_query(['with', 'without', 'yemen'])
+Results for the Query: with AND without AND yemen
+Total Docs retrieved: 6
+Text-159.txt
+Text-86.txt
+Text-115.txt
+Text-117.txt
+Text-121.txt
+Text-99.txt
+Retrieved in 0.0006260871887207031 seconds.
+
+>>> a.and_query(['with', 'without', 'yemen', 'yemeni'])
+Results for the Query: with AND without AND yemen AND yemeni
+Total Docs retrieved: 2
+Text-121.txt
+Text-99.txt
+Retrieved in 0.000331878662109375 seconds.
+
+>>> a.and_query(['ready', 'for', 'right'])
+Results for the Query: ready AND for AND right
+Total Docs retrieved: 10
+Text-43.txt
+Text-56.txt
+Text-34.txt
+Text-277.txt
+Text-26.txt
+Text-271.txt
+Text-121.txt
+Text-59.txt
+Text-71.txt
+Text-185.txt
+Retrieved in 0.0006339550018310547 seconds.
+
+>>> a.and_query(['girl', 'time', 'hard', 'after'])
+Results for the Query: girl AND time AND hard AND after
+Total Docs retrieved: 1
+Text-294.txt
+Retrieved in 0.00023698806762695312 seconds.
+
+>>> a.and_query(['down', 'like', 'fire'])
+Results for the Query: down AND like AND fire
+Total Docs retrieved: 16
+Text-349.txt
+Text-79.txt
+Text-5.txt
+Text-359.txt
+Text-106.txt
+Text-121.txt
+Text-323.txt
+Text-294.txt
+Text-308.txt
+Text-319.txt
+Text-324.txt
+Text-12.txt
+Text-252.txt
+Text-76.txt
+Text-169.txt
+Text-343.txt
+Retrieved in 0.00024175643920898438 seconds.
+
+>>> a.and_query(['pretty', 'never', 'know'])
+Results for the Query: pretty AND never AND know
+Total Docs retrieved: 2
+Text-113.txt
+Text-273.txt
+Retrieved in 0.00015401840209960938 seconds.
+
+a.and_query(['world', 'war', 'president', 'government'])
+Results for the Query: world AND war AND president AND government
+Total Docs retrieved: 18
+Text-160.txt
+Text-202.txt
+Text-377.txt
+Text-367.txt
+Text-47.txt
+Text-359.txt
+Text-100.txt
+Text-37.txt
+Text-121.txt
+Text-257.txt
+Text-294.txt
+Text-308.txt
+Text-255.txt
+Text-284.txt
+Text-142.txt
+Text-156.txt
+Text-88.txt
+Text-350.txt
+Retrieved in 0.00048804283142089844 seconds.
+

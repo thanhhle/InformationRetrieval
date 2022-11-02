@@ -1,0 +1,207 @@
+Index built in 2.0282537937164307 seconds.
+
+Results for the Exact Top 5 Retrievals of: political, government, party
+Total Docs retrieved: 5
+Doc: Text-172.txt         Score: 0.005854267148926767
+Doc: Text-325.txt         Score: 0.005799098358936951
+Doc: Text-109.txt         Score: 0.005705625079588391
+Doc: Text-200.txt         Score: 0.005652285742255003
+Doc: Text-190.txt         Score: 0.005032381340092987
+Retrieved in 0.03284001350402832 seconds.
+
+
+Results for the Inxact Top 5 Retrievals using Champion List of: political, government, party
+Total Docs retrieved: 5
+Doc: Text-118.txt         Score: 0.00402005201456023
+Doc: Text-391.txt         Score: 0.0037376996703808616
+Doc: Text-276.txt         Score: 0.0036153232785312074
+Doc: Text-322.txt         Score: 0.0035220309646672187
+Doc: Text-94.txt          Score: 0.003177804939260879
+Retrieved in 0.014797210693359375 seconds.
+
+
+Results for the Inxact Top 5 Retrievals using Index Elimination of: political, government, party
+Total Docs retrieved: 5
+Doc: Text-172.txt         Score: 0.005854267148926767
+Doc: Text-190.txt         Score: 0.005032381340092987
+Doc: Text-325.txt         Score: 0.0047020058723354985
+Doc: Text-200.txt         Score: 0.004582967748985233
+Doc: Text-158.txt         Score: 0.004227086788069489
+Retrieved in 0.023710966110229492 seconds.
+
+
+Results for the Inxact Top 5 Retrievals using Cluster Pruning of: political, government, party
+Total Docs retrieved: 5
+Doc: Text-172.txt         Score: 0.005854267148926767
+Doc: Text-109.txt         Score: 0.005705625079588391
+Doc: Text-190.txt         Score: 0.005032381340092987
+Doc: Text-118.txt         Score: 0.00402005201456023
+Doc: Text-276.txt         Score: 0.0036153232785312074
+Retrieved in 0.009602069854736328 seconds.
+
+
+----------------------------------------------------------------------------------------------
+Results for the Exact Top 5 Retrievals of: president, world, war, politician
+Total Docs retrieved: 5
+Doc: Text-187.txt         Score: 0.006054081041059717
+Doc: Text-37.txt          Score: 0.005754819945478402
+Doc: Text-102.txt         Score: 0.005697781789803173
+Doc: Text-200.txt         Score: 0.00536631936861485
+Doc: Text-312.txt         Score: 0.004834666647942919
+Retrieved in 0.031122207641601562 seconds.
+
+
+Results for the Inxact Top 5 Retrievals using Champion List of: president, world, war, politician
+Total Docs retrieved: 5
+Doc: Text-200.txt         Score: 0.00536631936861485
+Doc: Text-243.txt         Score: 0.004038295671345285
+Doc: Text-312.txt         Score: 0.003763262114024036
+Doc: Text-266.txt         Score: 0.003664650393317223
+Doc: Text-150.txt         Score: 0.003478413970598298
+Retrieved in 0.019528865814208984 seconds.
+
+
+Results for the Inxact Top 5 Retrievals using Index Elimination of: president, world, war, politician
+Total Docs retrieved: 5
+Doc: Text-187.txt         Score: 0.006054081041059717
+Doc: Text-243.txt         Score: 0.004038295671345285
+Doc: Text-312.txt         Score: 0.003585652585161577
+Doc: Text-150.txt         Score: 0.003478413970598298
+Doc: Text-371.txt         Score: 0.003472864277897731
+Retrieved in 0.0186920166015625 seconds.
+
+
+Results for the Inxact Top 5 Retrievals using Cluster Pruning of: president, world, war, politician
+Total Docs retrieved: 5
+Doc: Text-44.txt          Score: 0.0024445299952854747
+Doc: Text-236.txt         Score: 0.002116379085303298
+Doc: Text-292.txt         Score: 0.002115547119876685
+Doc: Text-140.txt         Score: 0.0020965753777435897
+Doc: Text-252.txt         Score: 0.001966935251487929
+Retrieved in 0.003946065902709961 seconds.
+
+
+----------------------------------------------------------------------------------------------
+Results for the Exact Top 5 Retrievals of: student, university
+Total Docs retrieved: 5
+Doc: Text-78.txt          Score: 0.008526893956855741
+Doc: Text-312.txt         Score: 0.007793678666422191
+Doc: Text-28.txt          Score: 0.005834809308043607
+Doc: Text-368.txt         Score: 0.005691321771853485
+Doc: Text-398.txt         Score: 0.005235836662451413
+Retrieved in 0.006092071533203125 seconds.
+
+
+Results for the Inxact Top 5 Retrievals using Champion List of: student, university
+Total Docs retrieved: 5
+Doc: Text-78.txt          Score: 0.008526893956855741
+Doc: Text-312.txt         Score: 0.007793678666422191
+Doc: Text-28.txt          Score: 0.005834809308043607
+Doc: Text-368.txt         Score: 0.005691321771853485
+Doc: Text-398.txt         Score: 0.005235836662451413
+Retrieved in 0.006281852722167969 seconds.
+
+
+Results for the Inxact Top 5 Retrievals using Index Elimination of: student, university
+Total Docs retrieved: 5
+Doc: Text-78.txt          Score: 0.005488437617952932
+Doc: Text-84.txt          Score: 0.005115924859222897
+Doc: Text-312.txt         Score: 0.004683439163200652
+Doc: Text-238.txt         Score: 0.003054452765250721
+Doc: Text-398.txt         Score: 0.0028803946686381016
+Retrieved in 0.00321197509765625 seconds.
+
+
+Results for the Inxact Top 5 Retrievals using Cluster Pruning of: student, university
+Total Docs retrieved: 5
+Doc: Text-95.txt          Score: 0.004279352629981437
+Doc: Text-191.txt         Score: 0.0038265883585499537
+Doc: Text-263.txt         Score: 0.0027531483178147315
+Doc: Text-160.txt         Score: 0.0015572088736876895
+Doc: Text-362.txt         Score: 0.0
+Retrieved in 0.002853870391845703 seconds.
+
+
+----------------------------------------------------------------------------------------------
+Results for the Exact Top 5 Retrievals of: soldier, leader, conference, military, citizen
+Total Docs retrieved: 5
+Doc: Text-172.txt         Score: 0.021418211921848885
+Doc: Text-317.txt         Score: 0.014420031301553726
+Doc: Text-269.txt         Score: 0.008604430020541589
+Doc: Text-46.txt          Score: 0.007899722801177015
+Doc: Text-421.txt         Score: 0.007040588399633
+Retrieved in 0.024155855178833008 seconds.
+
+
+Results for the Inxact Top 5 Retrievals using Champion List of: soldier, leader, conference, military, citizen
+Total Docs retrieved: 5
+Doc: Text-172.txt         Score: 0.021418211921848885
+Doc: Text-317.txt         Score: 0.014420031301553726
+Doc: Text-269.txt         Score: 0.008604430020541589
+Doc: Text-46.txt          Score: 0.007899722801177015
+Doc: Text-330.txt         Score: 0.006550054478717499
+Retrieved in 0.02118086814880371 seconds.
+
+
+Results for the Inxact Top 5 Retrievals using Index Elimination of: soldier, leader, conference, military, citizen
+Total Docs retrieved: 5
+Doc: Text-172.txt         Score: 0.021418211921848885
+Doc: Text-317.txt         Score: 0.014420031301553726
+Doc: Text-269.txt         Score: 0.008604430020541589
+Doc: Text-68.txt          Score: 0.005240600770130665
+Doc: Text-242.txt         Score: 0.005191807593532629
+Retrieved in 0.010254859924316406 seconds.
+
+
+Results for the Inxact Top 5 Retrievals using Cluster Pruning of: soldier, leader, conference, military, citizen
+Total Docs retrieved: 5
+Doc: Text-421.txt         Score: 0.007040588399633
+Doc: Text-356.txt         Score: 0.003606400213777129
+Doc: Text-220.txt         Score: 0.0032693864687079895
+Doc: Text-101.txt         Score: 0.0030282848683645244
+Doc: Text-200.txt         Score: 0.002717591284115924
+Retrieved in 0.00516819953918457 seconds.
+
+
+----------------------------------------------------------------------------------------------
+Results for the Exact Top 5 Retrievals of: fight, fire, plane
+Total Docs retrieved: 5
+Doc: Text-51.txt          Score: 0.008622447179979434
+Doc: Text-299.txt         Score: 0.008197212575004288
+Doc: Text-154.txt         Score: 0.006442097160861706
+Doc: Text-419.txt         Score: 0.006269812849236168
+Doc: Text-19.txt          Score: 0.005597086148674347
+Retrieved in 0.012029886245727539 seconds.
+
+
+Results for the Inxact Top 5 Retrievals using Champion List of: fight, fire, plane
+Total Docs retrieved: 5
+Doc: Text-51.txt          Score: 0.008622447179979434
+Doc: Text-299.txt         Score: 0.008197212575004288
+Doc: Text-154.txt         Score: 0.006442097160861706
+Doc: Text-419.txt         Score: 0.006269812849236168
+Doc: Text-19.txt          Score: 0.005597086148674347
+Retrieved in 0.011374950408935547 seconds.
+
+
+Results for the Inxact Top 5 Retrievals using Index Elimination of: fight, fire, plane
+Total Docs retrieved: 5
+Doc: Text-299.txt         Score: 0.008197212575004288
+Doc: Text-154.txt         Score: 0.006442097160861706
+Doc: Text-419.txt         Score: 0.006269812849236168
+Doc: Text-19.txt          Score: 0.005597086148674347
+Doc: Text-123.txt         Score: 0.005015850279388934
+Retrieved in 0.008043050765991211 seconds.
+
+
+Results for the Inxact Top 5 Retrievals using Cluster Pruning of: fight, fire, plane
+Total Docs retrieved: 5
+Doc: Text-224.txt         Score: 0.0043326281483093785
+Doc: Text-234.txt         Score: 0.0026205140993335752
+Doc: Text-99.txt          Score: 0.001318099077664617
+Doc: Text-70.txt          Score: 0.0011623432276157638
+Doc: Text-159.txt         Score: 0.0008997035814131356
+Retrieved in 0.004837989807128906 seconds.
+
+
+----------------------------------------------------------------------------------------------
